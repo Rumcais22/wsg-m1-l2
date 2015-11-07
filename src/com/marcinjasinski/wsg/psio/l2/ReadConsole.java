@@ -14,7 +14,7 @@ public class ReadConsole implements Serializable {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Podaj ciągn znaków = ");
+        System.out.print("Podaj ciag znaków = ");
 
         String line = scanner.nextLine();
 
